@@ -9,6 +9,7 @@ Berikut adalah soal/pertanyaan yang perlu dijawab oleh peserta maggang
 3. Apa yang anda ketahui tentang Monolith dan Microservices, berikan contohnya?
 4. Apa yang anda ketahui tentang Design pattern inversion of Control serta Dependency Injection?
 5. Apa yang anda ketahui tentang Java programming dan Spring framework khususnya spring-boot?
+---
    Jawaban
 1. REST API
 REST API adalah antarmuka yang memungkinkan client dan server berkomunikasi melalui protokol HTTP dengan metode seperti GET, POST, PUT, DELETE. 
@@ -51,7 +52,8 @@ Dalam suatu schenario ada requirement membuat aplikasi e-commerse seperti Tokope
     ![detail-transaction](imgs/detail-transaction.png)
 
 Kemudian temen-temen buat design database, module (monolith/microservices) berdasarkan gambar atau schenario tersebut. Serta jelakan mengapa menggunakan design tersebut.
-
+---
+Jawaban
 Desain Modul & Database (Proyek E-Commerce)
 Desain Modul: Menggunakan Monolith Architecture
 Alasan:
